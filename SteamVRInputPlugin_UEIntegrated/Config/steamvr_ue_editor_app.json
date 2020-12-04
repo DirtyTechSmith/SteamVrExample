@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.steamvrinput-11100242.ue4editor.exe",
+			"app_key": "application.generated.ue.steamvrinput-14830424.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "C:/GitHub/SteamVrExample/SteamVRInputPlugin_UEIntegrated/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "SteamVRInput-11100242 [UE Editor]"
+					"name": "SteamVRInput-14830424 [UE Editor]"
 				}
 			}
 		}
